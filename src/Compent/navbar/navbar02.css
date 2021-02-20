@@ -1,0 +1,162 @@
+.FlexboxNav {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 50px;
+}
+.FlexboxNav p {
+  font-size: 18px;
+  margin-right: 80px;
+  margin-top: 30px;
+  padding-top: 30px;
+  background-color: red;
+  color: white;
+  border-radius: 25px;
+  width: 150px;
+  padding-left: 50px;
+  padding-top: 10px;
+  height: 40px;
+  font-weight: 500;
+}
+.Backgroud02 {
+  height: 750px;
+
+  background-image: url("gf.jpg");
+}
+.Flex-box-Online {
+  font-size: 60px;
+  font-weight: 500;
+}
+.Flex-box-Online h4 {
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-left: 20px;
+  color: black;
+}
+.Flex-box-Online p {
+  border-radius: 40px;
+
+  width: 500px;
+  margin-left: 50px;
+  padding-left: 60px;
+}
+.Shopinglist {
+  margin-top: 100px;
+  margin-left: 120px;
+}
+.Morg0 button {
+  margin-left: 400px;
+  margin-top: 20px;
+  background-color: #ff5e26;
+  border-radius: 25px;
+  border: none;
+  color: white;
+  height: 50px;
+  width: 300px;
+}
+.Morg0 p {
+  font-size: 18px;
+}
+.Morg0 button p {
+  font-size: 25px;
+}
+.Shopinglist h4 {
+  color: black;
+  opacity: 60%;
+}
+.Main {
+  background-color: #cbe7ee;
+  height: 900px;
+}
+.Main img {
+  width: 150px;
+  margin-left: 700px;
+  margin-top: 50px;
+}
+.CardShpoing {
+  display: flex;
+}
+.CardAll02 {
+  background-color: white;
+  width: 300px;
+  height: 350px;
+}
+.CardAll02 {
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.Main H4 {
+  color: #ff5e26;
+  margin-left: 600px;
+  margin-top: 50px;
+}
+.Main p {
+  color: rgb(181, 181, 181);
+  opacity: 60%;
+  margin-left: 500px;
+  font-size: 18px;
+}
+.CardAll02 {
+  border-radius: 15px;
+  opacity: 90%;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  height: 400px;
+}
+.CardAll02:hover {
+  transition: transform 0.75s;
+  transform: scale(1.5);
+}
+.CardAll02 img {
+  margin-left: 97px;
+  width: 100px;
+}
+.title h1 {
+  font-size: 22px;
+  text-align: center;
+  margin-left: 15px;
+  margin-top: 10px;
+  font-weight: 600;
+  padding-right: 10px;
+}
+.title h5 {
+  color: black;
+  opacity: 60%;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+.MapProduct {
+  background-color: #f2f2f2;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Card005 {
+  box-shadow: 10px 10px 20px #aaaaaa;
+  margin-top: 40px;
+  background-color: white;
+  height: 350px;
+  width: 300px;
+  opacity: 90%;
+  border-radius: 20px;
+}
+.Card005 {
+  margin-left: 50px;
+}
+.Card005 img {
+  width: 150px;
+  margin-left: 80px;
+}
+.Price p {
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 70px;
+}
+.Card005 h3 {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 140px;
+}
+.Sponsor {
+  margin-top: 250px;
+  background-color: #919191;
+  height: 200px;
+}

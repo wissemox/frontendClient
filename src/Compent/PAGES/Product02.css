@@ -1,0 +1,296 @@
+.more {
+  display: flex;
+}
+.Product02 {
+  width: 300px;
+}
+.Filter {
+  background: #f63c2b;
+  width: 150px;
+}
+.ProductFlex {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  width: 400px;
+}
+.test {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.Price {
+  display: flex;
+}
+.Price01 {
+  margin-left: 50px;
+  font-weight: bold;
+}
+.Link {
+  padding-left: 30px;
+
+  width: 110px;
+  height: 30px;
+}
+.Link p {
+  color: red;
+  width: 250px;
+  padding-right: 180px;
+}
+.Link button {
+  background-color: rgb(49, 49, 49);
+  height: 30px;
+  width: 80px;
+}
+.Cardd img {
+  width: 200px;
+}
+.Cardd {
+  display: flex;
+}
+.Cardd p {
+  margin-left: px;
+  margin-top: 75px;
+}
+.Cardd button {
+  margin-top: 80px;
+  background-color: rgb(37, 152, 228);
+  border-radius: 20px;
+  border: none;
+  width: 150px;
+  margin-left: 50px;
+  height: 70px;
+}
+.Cardd img {
+  margin-left: 200px;
+}
+.Cardd p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.PrintisHere {
+  padding-left: 50px;
+  margin-right: 190px;
+}
+h5 {
+  color: white;
+}
+.Navbarf005 {
+  border-bottom: 1px solid;
+}
+.Navbarf005 h2 {
+  color: white;
+}
+.Navbar0c05 {
+  background-color: #ff5e26;
+  opacity: 90%;
+  height: 150px;
+}
+.Navbar0c05 h1 {
+  margin-left: 50px;
+  font-size: 52px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+.Button005 {
+  border: none;
+  border-radius: 25px;
+  height: 50px;
+  width: 150px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+.nda {
+  color: white;
+}
+.adz {
+  background-color: #f63c2b;
+  height: 50px;
+  width: 400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  padding-left: 80px;
+}
+.adz button {
+  border: none;
+  color: white;
+  background-color: #f63c2b;
+  margin-top: 3px;
+}
+.adz button:hover {
+  border: none;
+  color: white;
+
+  color: rgb(63, 132, 235);
+}
+.Valid {
+  color: white;
+}
+.Valid02 {
+  width: 50px;
+}
+.NavBar {
+  background-color: #f2f2f2;
+  height: 40px;
+  border-bottom: solid 1px;
+}
+
+.NavBar button {
+  border: none;
+  border-right: solid 1px;
+  height: 38px;
+  width: 150px;
+}
+.LoyalCustomer {
+  padding-left: 500px;
+  padding-top: 40px;
+}
+.LoyalCustomer p {
+  color: #007ada;
+  font-weight: 500;
+}
+.LoyalCustomer02 {
+  margin-left: 500px;
+}
+.NavBar p {
+  padding-top: 5px;
+  color: #015696;
+  font-weight: 500;
+}
+.UserId {
+  display: flex;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+.UserId p {
+  margin-left: 200px;
+  font-size: 18px;
+}
+.UserIdd {
+  font-weight: 500;
+  font-size: 18px;
+}
+.Morh {
+  color: #015696;
+}
+.Name {
+  display: flex;
+  margin-left: 150px;
+}
+.Name p {
+  margin-top: 20px;
+  font-size: 18px;
+  margin-left: 200px;
+}
+.Name01 {
+  font-weight: 500;
+}
+.Name002 {
+  color: #015696;
+  padding-left: 5px;
+}
+.LastName02 {
+  display: flex;
+  margin-left: 180px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+.LastName02 p {
+  margin-left: 150px;
+}
+.Lastname03 {
+  font-weight: 500;
+  padding-left: 20px;
+}
+.LastNmae04 {
+  color: #015696;
+  padding-left: 26px;
+}
+.Email01 {
+  display: flex;
+  font-size: 18px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.Email01 p {
+  margin-left: 150px;
+}
+.Email005 {
+  font-weight: 500;
+}
+.Email006 {
+  color: #015696;
+  padding-left: 60px;
+}
+.Buttond {
+  margin-left: 350px;
+}
+.Bcktext {
+  background-image: url("Sans-titre---1.jpg");
+  height: 700px;
+}
+.Price button {
+  border: none;
+  height: 50px;
+}
+.Price01 {
+  padding-right: 80px;
+
+  width: 250px;
+}
+.Price01 p {
+  margin-left: 12px;
+}
+.Text01 p {
+  width: 150px;
+  margin-left: 3px;
+}
+.Text01 button {
+  border-radius: 30px;
+  padding-top: 10px;
+}
+.BorderAg button {
+  border-radius: 18px;
+  height: 30px;
+  background-color: #f63c2b;
+  color: white;
+}
+.Button02 button p {
+}
+.Button02 button {
+  margin-right: 50px;
+  padding-right: 30px;
+}
+.text005 {
+  margin-right: 30px;
+}
+.text005 button {
+  border-radius: 18px;
+  height: 30px;
+}
+.TextPrice {
+}
+.TextPrice p {
+  padding-left: 50px;
+
+  margin-left: 50px;
+}
+.BorderAg02 {
+  margin-top: 30px;
+
+  width: 250px;
+}
+.BorderAg02 button {
+  border-radius: 18px;
+  height: 30px;
+  background-color: #f63c2b;
+  color: white;
+}
+.Product02 {
+  margin-left: 50px;
+  margin-top: 30px;
+}

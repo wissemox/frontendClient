@@ -1,0 +1,18 @@
+.Main03 {
+  background-color: #3193f1;
+  opacity: 60%;
+
+  width: 1519px;
+  height: 570px;
+}
+.Main03 h2 {
+  margin-bottom: 50px;
+  font-size: 80px;
+  padding-left: 50px;
+  color: white;
+  opacity: 80%;
+}
+.Main03 p {
+  font-size: 18px;
+  margin-left: 80px;
+}

@@ -1,0 +1,39 @@
+.Flex-Presnlise {
+  display: flex;
+  margin-top: 60px;
+}
+.Flex-Presnlise img {
+  width: 200px;
+}
+.Flex-Presnlise p {
+  margin-left: 50px;
+}
+.Print {
+  margin-right: 150px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 50px;
+
+  padding-top: 50px;
+}
+.Print02 {
+  margin-right: 150px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  padding-left: 80px;
+
+  padding-top: 80px;
+}
+.Flex-Presnlise button {
+  border: none;
+  background-color: rgb(69, 114, 251);
+  border-radius: 28px;
+  height: 80px;
+  width: 150px;
+  margin-top: 50px;
+  color: white;
+}
+.Flex-Presnlise button {
+  margin-left: 80px;
+}

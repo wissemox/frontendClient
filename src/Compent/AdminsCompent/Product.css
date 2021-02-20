@@ -1,0 +1,43 @@
+.Product-flex-box {
+  display: flex;
+  margin-top: 60px;
+  border-bottom: solid 1px;
+}
+.Product-flex-box img {
+  width: 200px;
+}
+.Product-flex-box p {
+  margin-top: 60px;
+  margin-left: 160px;
+  font-size: 18px;
+}
+.Product-flex-box button {
+  border: none;
+  border-radius: 50px;
+  width: 100px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+
+.Product-flex-box button:hover {
+  background-color: rgb(63, 132, 235);
+  color: white;
+}
+.Add {
+  border: none;
+  width: 450px;
+  height: 100px;
+  margin-left: 450px;
+  margin-top: 30px;
+  background-color: rgb(186, 186, 186);
+  color: white;
+  font-size: 18px;
+}
+.Add:hover {
+  background-color: rgb(63, 132, 235);
+}
+.Product-flex-box button {
+  margin-left: 60px;
+  margin-bottom: 20px;
+}

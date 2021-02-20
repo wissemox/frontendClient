@@ -1,0 +1,26 @@
+.Flex-box-user {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 10px;
+  border-bottom: 1px solid;
+  width: 1300px;
+}
+.Email {
+  margin-left: 200px;
+}
+.LastName {
+  margin-left: 200px;
+}
+.Flex-box-user button {
+  border: none;
+  border-radius: 18px;
+  background-color: rgb(174, 174, 175);
+  height: 50px;
+  width: 150px;
+  color: white;
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+.Flex-box-user button:hover {
+  background-color: rgb(0, 106, 255);
+}
